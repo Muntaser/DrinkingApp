@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ABV</key>
+		<string>45</string>
+		<key>picture</key>
+		<string>8</string>
+		<key>name</key>
+		<string>Jack Daniel</string>
+		<key>type</key>
+		<string>Whiskey</string>
+		<key>detail</key>
+		<string>Jack Daniel&apos;s whiskey is filtered through sugar maple charcoal in large wooden vats prior to aging, which is an extra step that is not used in making most Bourbon whiskey,[25] and the company claims that this makes the product different than Bourbon. </string>
+	</dict>
+	<dict>
+		<key>ABV</key>
+		<integer>15</integer>
+		<key>picture</key>
+		<integer>7</integer>
+		<key>name</key>
+		<string>Yellow Tail</string>
+		<key>type</key>
+		<string>Wine</string>
+		<key>detail</key>
+		<string>This is Yellow Tail</string>
+	</dict>
+	<dict>
+		<key>ABV</key>
+		<string>10</string>
+		<key>picture</key>
+		<integer>6</integer>
+		<key>name</key>
+		<string>Heineken</string>
+		<key>type</key>
+		<string>Beer</string>
+		<key>detail</key>
+		<string>This is Heineken</string>
+	</dict>
+	<dict>
+		<key>ABV</key>
+		<integer>5</integer>
+		<key>picture</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>Corona</string>
+		<key>type</key>
+		<string>Beer</string>
+		<key>detail</key>
+		<string>Corona Baby!</string>
+	</dict>
+	<dict>
+		<key>picture</key>
+		<integer>4</integer>
+		<key>ABV</key>
+		<integer>60</integer>
+		<key>name</key>
+		<string>California Merlot</string>
+		<key>type</key>
+		<string>Wine</string>
+		<key>detail</key>
+		<string>details to come soon on California Merlot</string>
+	</dict>
+	<dict>
+		<key>ABV</key>
+		<integer>40</integer>
+		<key>picture</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Reserva Malbec</string>
+		<key>type</key>
+		<string>Wine</string>
+		<key>detail</key>
+		<string>Wine wine wine wine</string>
+	</dict>
+	<dict>
+		<key>ABV</key>
+		<integer>45</integer>
+		<key>picture</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>120 Chardonnay</string>
+		<key>type</key>
+		<string>Wine</string>
+		<key>detail</key>
+		<string>For more info please google.</string>
+	</dict>
+	<dict>
+		<key>ABV</key>
+		<integer>40</integer>
+		<key>picture</key>
+		<integer>1</integer>
+		<key>type</key>
+		<string>Rum</string>
+		<key>name</key>
+		<string>Captain Morgan</string>
+		<key>detail</key>
+		<string>Who wants to be the captain today?</string>
+	</dict>
+</array>
+</plist>
